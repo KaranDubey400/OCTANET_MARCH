@@ -1,0 +1,27 @@
+#background {
+position: fixed;
+inset: 0;
+z-index: -1;
+
+width: 100%;
+height: 100vh;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url('../assets/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #333;
+}
+
+
+footer {
+    text-align: bottom;
+    padding: 10px;
+    
+    color: #fff;
+    clear: both; 
+}
